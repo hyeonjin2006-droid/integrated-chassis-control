@@ -33,7 +33,7 @@ desktop.ini
 *.m~
 
 # Auto-grade artifacts (CI 가 만들고 학생 commit 안 함)
-grade_report.json
+# grade_report.json
 data/scenarios/result_*.mat
 data/scenarios/benchmark_*.mat
 data/scenarios_export/
